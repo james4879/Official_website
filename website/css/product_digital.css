@@ -1,0 +1,44 @@
+.product_digital_return span{
+	font-size: 20px;
+	color: #979797;
+}
+.product_digital_return{
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.product_digital_head{
+	width: 100%;
+	min-width: 1024px;
+	margin-top: 30px;
+}
+.product_digital_head img{
+	width: 100%;
+}
+.product_digital_content{
+	width: 100%;
+	min-width: 1024px;
+	margin-top: 50px;
+	overflow: hidden;
+}
+.product_digital_content p{
+	width: 100%;
+	text-align: center;
+	font-size:2em;
+	margin-bottom: 40px;
+}
+.product_digital_content>div{
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+.product_digital_erweima{
+	margin-top: 50px;
+	width: 100%;
+	min-width: 1024px;
+	margin: 0 auto;
+}
+.product_digital_erweima img{
+	width: 100%;
+}

@@ -1,0 +1,57 @@
+.CVApp_return span {
+	font-size: 1em;
+	color: #979797;
+}
+.CVApp_return {
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.CVApp_content{
+	width: 90%;
+	min-width: 1024px;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-top: 3%;
+	/*margin-left: 10%;*/
+}
+/*左边内容*/
+.CVApp_content_left{
+	width: 70%;
+	float: left;
+}
+.CVApp_content_left_title{
+	font-size: 2.5em;
+	margin-bottom: 4%;
+}
+.CVApp_content_left_text1,.CVApp_content_left_text2,.CVApp_content_left_text3,.CVApp_content_left_text4{
+	width: 100%;
+	font-size: 1.2em;
+	text-indent: 2em;
+	line-height: 200%;
+}
+.CVApp_content_left_img_one,.CVApp_content_left_img_two{
+	width: 100%;
+	margin-top: 2%;
+}
+.CVApp_content_left_img_one>img,.CVApp_content_left_img_two>img{
+	width: 100%;
+}
+/*右边内容*/
+.CVApp_content_right{
+	width: 23%;
+	float: right;
+	margin-right: 5%;
+}
+.CVApp_content_right_img{
+	width: 100%;
+	margin-top: 15%;
+}
+.CVApp_content_right_img img{
+	width: 100%;
+}
+.CVApp_content_right_list{
+	font-size: 0.8em;
+	padding-left: 5%;
+}

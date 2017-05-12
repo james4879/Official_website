@@ -1,0 +1,143 @@
+.Team_return span {
+	font-size: 20px;
+	color: #979797;
+}
+.Team_return {
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.Team_head{
+	width: 100%;
+	min-width: 1024px;
+	margin-top: 10px;
+}
+.Team_head img{
+	width: 100%;
+}
+.Team_title{
+	width: 100%;
+	font-size: 2.1em;
+	text-align: center;
+	margin-top: 50px;
+}
+.Team_title span{
+	font-size: 2.2em;
+	color: #F3F350;
+}
+.Team_introduce{
+	width: 90%;
+	margin: 0 auto;
+	min-width: 1024px;
+}
+/*comman*/
+.Team_introduce_img{
+	width: 50%;
+	border: 8px solid #DDB822;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.Team_introduce_img>img{
+	width: 100%;
+	float: left;
+}
+.Team_introduce_name{
+	font-size: 1.6em;
+	font-weight: bold;
+	list-style: none;
+}
+/*1*/
+.Team_introduceList_one{
+	overflow: hidden;
+	width: 100%;
+	min-width: 1024px;
+	margin: 50px 0;
+
+}
+.Team_introduceList_one>div{
+	float: left;
+	width: 33.333%;
+}
+.Team_introduceList_one>div>div{
+	margin: 0 auto;
+}
+.Team_introduceList_one>div>ul{
+	width: 50%;
+	margin: 0 auto;
+	border: 5px solid #B3B3B3;
+	padding: 3% 30px;
+	border-radius: 25px;
+	margin-top: 20px;
+	list-style: square;
+}
+/*2*/
+.Team_introduceList_two{
+	overflow: hidden;
+	width: 100%;
+	min-width: 1024px;
+
+}
+.Team_introduceList_two>div{
+	float: left;
+	width: 33.333%;
+}
+.Team_introduceList_two>div>div{
+	margin: 0 auto;
+}
+.Team_introduceList_two>div>ul{
+	width: 50%;
+	margin: 0 auto;
+	border: 5px solid #B3B3B3;
+	padding: 3% 30px;
+	border-radius: 25px;
+	margin-top: 20px;
+	list-style: square;
+}
+/*3*/
+.Team_introduceList_three{
+	overflow: hidden;
+	width: 100%;
+	min-width: 1024px;
+	margin: 50px 0;
+}
+.Team_introduceList_three>div{
+	float: left;
+	width: 33.333%;
+}
+.Team_introduceList_three>div>div{
+	margin: 0 auto;
+}
+.Team_introduceList_three>div>ul{
+	width: 50%;
+	margin: 0 auto;
+	border: 5px solid #B3B3B3;
+	padding: 3% 30px;
+	border-radius: 25px;
+	margin-top: 20px;
+	list-style: square;
+}
+/*4*/
+.Team_introduceList_four{
+	overflow: hidden;
+	width: 100%;
+	min-width: 1024px;
+
+}
+.Team_introduceList_four>div{
+	float: left;
+	width: 33.333%;
+}
+.Team_introduceList_four>div>div{
+	margin: 0 auto;
+}
+.Team_introduceList_four>div>ul{
+	width: 50%;
+	margin: 0 auto;
+	border: 5px solid #B3B3B3;
+	padding: 3% 30px;
+	border-radius: 25px;
+	margin-top: 20px;
+	list-style: square;
+	font-size:1em;
+}

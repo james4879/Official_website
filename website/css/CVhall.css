@@ -1,0 +1,148 @@
+.CVhall_return span {
+	font-size: 1.5em;
+	color: #979797;
+}
+.CVhall_return {
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-bottom: 3%;
+}
+.CVhall_head{
+	width: 100%;
+	min-width: 1024px;
+}
+.CVhall_head img{
+	width: 100%;
+}
+/*企业沙龙*/
+.CVhall_EnterpriseSalon{
+	width: 90%;
+	min-width: 1024px;
+	margin: 0 auto;
+	margin-top: 80px;
+}
+.CVhall_EnterpriseSalon_title{
+	text-align: center;
+	font-size:1.8em;
+	color: black;
+	margin-bottom: 30px;
+}
+.CVhall_EnterpriseSalon_tips{
+	width: 100%;
+	overflow: hidden;
+	border-bottom: 1px solid #989898;
+	padding-bottom: 0.5%;
+}
+.CVhall_EnterpriseSalon_tips span{
+	color: black;
+	font-size: 1.5em;
+}
+.CVhall_EnterpriseSalon_content{
+	width: 100%;
+	overflow: hidden;
+	padding-top: 4%;
+}
+.CVhall_EnterpriseSalon_content_left{
+	width: 63%;
+	height: 500px;
+	background-color: red;
+	float: left;
+}
+.CVhall_EnterpriseSalon_content_right{
+	width: 34%;
+	background-color: #e5e5e5;
+	height: 500px;
+	float: right;
+	margin-right: 1%;
+}
+..CVhall_EnterpriseSalon_content_right_content{
+	width: 100%;
+}
+.CVhall_EnterpriseSalon_content_right_content>div{
+	width: 100%;
+	height: 100px;
+	background-color: #666;
+}
+.CVhall_EnterpriseSalon_content_right_content>div img{
+	width: 100%;
+	height: 100%;
+}
+/*各地钱 唐荟馆*/
+.CVhall_PastSalon{
+	width: 90%;
+	min-width: 1030px;
+	margin: 0 auto;
+	margin-top: 80px;
+}
+.CVhall_PastSalon_tips{
+	width: 100%;
+	overflow: hidden;
+	border-bottom: 1px solid #989898;
+	padding-bottom: 0.5%;
+	margin-bottom: 2%;
+}
+.CVhall_PastSalon_tips span{
+	color: black;
+	font-size: 1.5em;
+}
+.CVhall_PastSalon_content{
+	width: 100%;
+	min-width: 1024px;
+	margin: 0 auto;
+}
+.CVhall_PastSalon_content>div>div img{
+	width: 100%;
+}
+.CVhall_PastSalon_content>div{
+	width: 100%;
+	overflow: hidden;
+	padding: 4% 0;
+}
+.CVhall_PastSalon_content>div>div{
+	float: left;
+	width: 30%;
+	background-color: azure;
+	text-align: center;
+	margin-left: 2.5%;
+	line-height: 30px;
+}
+/*热点消息*/
+.CVhall_Hotnews{
+	width: 90%;
+	min-width: 1024px;
+	margin: 0 auto;
+	margin-top: 3%;
+}
+.CVhall_Hotnews_tips{
+	width: 100%;
+	overflow: hidden;
+	border-bottom: 1px solid #989898;
+	padding-bottom: 0.5%;
+	margin-bottom: 2%;
+}
+.CVhall_Hotnews_tips span{
+	color: black;
+	font-size: 1.5em;
+}
+.CVhall_Hotnews_content{
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.CVhall_Hotnews_content_left{
+	width: 65%;
+	float: left;
+}
+.CVhall_Hotnews_content_right{
+	width: 32%;
+	float: right;
+	font-size: 1em;
+	line-height: 1.3em;
+}
+.CVhall_Hotnews_content_right li{
+	color: black;
+	font-size: 1.4em;
+	line-height: 2em;
+}

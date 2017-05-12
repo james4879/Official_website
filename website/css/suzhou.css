@@ -1,0 +1,53 @@
+.suzhou_return span {
+	font-size: 20px;
+	color: #979797;
+}
+.suzhou_return {
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.suzhou_content{
+	width: 90%;
+	margin: 0 auto;
+	border: 1px solid #989898;
+	padding: 3%;
+	margin-top: 50px;
+}
+.suzhou_content_head{
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 5%;
+}
+.suzhou_content_head_left{
+	width: 70%;
+	float: left;
+}
+.suzhou_content_head_left>p{
+	font-size: 50px;
+}
+.suzhou_content_head_left>span{
+	width: 80%;
+	font-size: 24px;
+	display: block;
+	line-height: 200%;
+	margin-top: 2%;
+}
+.suzhou_content_head_right{
+	width: 30%;
+	float: right;
+}
+.suzhou_content_head_right img{
+	width: 90%;
+}
+.suzhou_content_middle>div{
+	width: 100%;
+	height: 400px;
+	background-color: darkgray;
+}
+.suzhou_content_middle>p{
+	font-size: 26px;
+	padding: 1%;
+	margin-bottom: 8%;
+}

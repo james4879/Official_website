@@ -1,0 +1,62 @@
+.taizhou_return span {
+	font-size: 20px;
+	color: #979797;
+}
+.taizhou_return {
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.taizhou_content{
+	width: 90%;
+	min-width: 1024px;
+	margin: 0 auto;
+	border: 1px solid #989898;
+	padding: 50px;
+	margin-top: 50px;
+}
+.taizhou_content_head{
+	width: 100%;
+	overflow: hidden;
+}
+.taizhou_content_head_left{
+	width: 70%;
+	float: left;
+}
+.taizhou_content_head_left>p{
+	font-size: 50px;
+}
+.taizhou_content_head_left>span{
+	width: 80%;
+	font-size: 24px;
+	display: block;
+	line-height: 200%;
+	margin-top: 50px;
+}
+.taizhou_content_head_right{
+	width: 30%;
+	float: right;
+}
+.taizhou_content_head_right img{
+	width: 100%;
+}
+.taizhou_content_middle{
+	width: 100%;
+	min-width: 1024px;
+	margin: 0 auto;
+	margin-top: 200px;
+}
+.taizhou_content_middle_content{
+	width: 100%;
+	min-width: 1024px;
+	margin: 0 auto;
+}
+.taizhou_content_middle_content>div{
+	width: 33%!important;
+	/*height: 100%;*/
+}
+.taizhou_content_middle_content>div>img{
+	width: 100%;
+	/*height: 100%;*/
+}

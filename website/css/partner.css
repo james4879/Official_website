@@ -1,0 +1,92 @@
+.partner_return span {
+	font-size: 20px;
+	color: #979797;
+}
+
+.partner_return {
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+
+.partner_head {
+	width: 100%;
+	min-width: 1024px;
+	margin-top: 30px;
+}
+
+.partner_head img {
+	width: 100%;
+}
+
+.partner_content_box {
+	width: 100px;
+	min-width: 1024px;
+}
+
+.partner_content {
+	width: 100%;
+}
+.partner_content_box{
+	width: 100%;
+}
+.partner_content>div {
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	overflow: hidden;
+	padding: 70px 0;
+}
+.partner_content img {
+	width: 70%;
+}
+.partner_content_one>div {
+	width: 25%;
+	float: left;
+	position: relative;
+}
+
+.partner_content_two>div {
+	width: 25%;
+	float: left;
+}
+
+.partner_content_three>div {
+	width: 25%;
+	float: left;
+}
+
+
+/*轮播的鼠标悬停*/
+.partner_hover_one_one {
+	width: 70%;
+	height: 99%;
+	background-color: #d3ccc4;
+	position: absolute;
+	color: black;
+	opacity: 0;
+	top: 0;
+	left: 15%;
+}
+.partner_hover_text1 {
+	margin-top: 30%;
+	font-size: 1.5em;
+}
+.partner_hover_text2 {
+	margin-top: 5%;
+	margin-bottom: 8%;
+	font-size: 20px;
+}
+.partner_hover_text3 {
+	margin-top: 10%;
+	background-color: black;
+	color: white;
+	width: 50%;
+	margin: 0 auto;
+	padding: 5px 0;
+}
+.partner_hover_one_one:hover{
+	opacity: 0.8;
+	transition: 1s;
+}

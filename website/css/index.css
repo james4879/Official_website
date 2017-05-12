@@ -1,0 +1,98 @@
+.index_head{
+	width: 100%;
+	height: 800px;
+	min-width: 1024px;
+}
+.index_head img{
+	width: 100%;
+	height: 100%;
+}
+.index_content{
+	width: 90%;
+	min-width: 1024px;
+	margin: 0 auto;
+	margin-top: 100px;
+	overflow: hidden;
+}
+.index_content img{
+	width: 100%;
+	display: block;
+}
+.index_content_one{
+	width:48%;
+	float: left;
+}
+.index_content_two{
+	width: 48%;
+	float: right;
+}
+.index_content_three{
+	width: 48%;
+	float: left;
+	margin-top: 6.3%;
+}
+.index_content_four{
+	width: 100%;
+	float: left;
+	margin-top: 80px;
+}
+.index_content_five{
+	width: 48%;
+	float: left;
+	margin-top: 80px;
+}
+.index_content_six{
+	width: 48%;
+	float: right;
+	margin-top: 80px;
+}
+/*首页客户端下载*/
+.index_download img{
+	width: 100%;
+}
+.index_download{
+	width: 100%;
+	height: 468px;
+	min-width: 1024px;
+	background-image: url(../img/index/indexdown_bg.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	position: relative;
+	margin-top: 82px;
+}
+.index_download_logo{
+	width: 7%;
+	position: absolute;
+	top: 14.5%;
+	left: 22.5%;
+}
+.index_download_text{
+	position: absolute;
+	top: 14.5%;
+	left:31% ;
+}
+.index_download_iphone{
+	width: 10%;
+	position: absolute;
+	left: 29.7%;
+	top:45% ;
+}
+.index_download_android{
+	width: 10%;
+	position: absolute;
+	left: 29.7%;
+	top: 62%;
+}
+.index_download_iphoneloog{
+	width: 16%;
+	min-width: 305px;
+	position: absolute;
+	left:62% ;
+	top: -13%;
+}
+.index_download_erweima{
+	width: 9%;
+	position: absolute;
+	left: 42.3%;
+	top:42% ;
+}

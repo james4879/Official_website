@@ -1,0 +1,85 @@
+.service_return span {
+	font-size: 20px;
+	color: #979797;
+}
+.service_return {
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.service_head{
+	width: 100%;
+	min-width: 1024px;
+	margin-top: 30px;
+}
+.service_head img{
+	width: 100%;
+}
+/*售后流程*/
+.service_Sales_Process{
+	width: 90%;
+	min-width: 1024px;
+	margin: 0 auto;
+	margin-top: 50px;
+	font-size: 50px;
+}
+.service_Sales_Process img{
+	width: 100%;
+}
+/*服务流程*/
+.service_Process{
+	width: 90%;
+	min-width: 1024px;
+	margin: 0 auto;
+	margin-top: 60px;
+	font-size: 50px;
+}
+.service_Process img{
+	width: 100%;
+}
+/*联系我们*/
+.service_ContactUs{
+	width: 90%;
+	min-width: 1024px;
+	margin: 0 auto;
+}
+.service_ContactUs>p{
+	width: 100%;
+	text-align: center;
+	font-size: 50px;
+	margin-bottom: 60px;
+	margin-top: 60px;
+}
+.service_ContactUs>ul{
+	width: 100%;
+	min-width: 1024px;
+	margin:0 auto;
+	list-style: none;
+	overflow: hidden;
+	background-color: gainsboro;
+	padding: 3% 0;
+	text-align: center;
+}
+.service_ContactUs>ul>li{
+	float: left;
+	width: 33.33333%;
+	line-height: 40px;
+}
+.service_ContactUs>ul>li span{
+	display: block;
+	color: black;
+}
+.service_ContactUs img{
+	width: 30%;
+}
+.service_ContactUs_btn{
+	width: 25%;
+	height: 5%;
+	padding: 1%;
+	text-align: center;
+	font-size: 1em;
+    background-color: #00a89c;
+    margin-top: 10px;
+}
+

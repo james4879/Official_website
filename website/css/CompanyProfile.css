@@ -1,0 +1,35 @@
+.CompanyProfile_return span {
+	font-size: 20px;
+	color: #979797;
+}
+.CompanyProfile_return {
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.CompanyProfile_head{
+	width: 100%;
+	min-width: 1024px;
+	margin-top: 10px;
+}
+.CompanyProfile_head img{
+	width: 100%;
+}
+.CompanyProfile_content{
+	width: 90%;
+	min-width: 1024px;
+	margin: 0 auto;
+}
+.CompanyProfile_content_title{
+	text-align: center;
+	font-size: 2em;
+	font-style: initial;
+	padding: 30px 0;
+}
+.CompanyProfile_content_txt{
+	width: 80%;
+	margin: 0 auto;
+	font-size: 1.2em;
+	line-height: 3em;
+}

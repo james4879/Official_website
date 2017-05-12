@@ -1,0 +1,44 @@
+.product_OutdoorGear_return span{
+	font-size: 20px;
+	color: #979797;
+}
+.product_OutdoorGear_return{
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.product_OutdoorGear_head{
+	width: 100%;
+	min-width: 1024px;
+	margin-top: 30px;
+}
+.product_OutdoorGear_head img{
+	width: 100%;
+}
+.product_OutdoorGear_content{
+	width: 100%;
+	min-width: 1024px;
+	margin-top: 50px;
+	overflow: hidden;
+}
+.product_OutdoorGear_content p{
+	width: 100%;
+	text-align: center;
+	font-size:2em;
+	margin-bottom: 40px;
+}
+.product_OutdoorGear_content>div{
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+.product_OutdoorGear_erweima{
+	margin-top: 50px;
+	width: 100%;
+	min-width: 1024px;
+	margin: 0 auto;
+}
+.product_OutdoorGear_erweima img{
+	width: 100%;
+}

@@ -1,0 +1,44 @@
+.ChairmanMessage_return span {
+	font-size: 20px;
+	color: #979797;
+}
+.ChairmanMessage_return {
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.ChairmanMessage_content{
+	width: 90%;
+	min-width: 1024px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.ChairmanMessage_content_title{
+	font-size: 2.5em;
+	margin: 40px 0;
+}
+.ChairmanMessage_img{
+	float: left;
+	margin-right: 2%;
+	width: 15%;
+}
+.ChairmanMessage_img>img{
+	width: 100%;
+}
+.ChairmanMessage_txt>span{
+	display: block;
+	margin-top: 20px;
+	font-size: 1.4em;
+    text-indent: 2em;
+    line-height: 1.8em;
+}
+.ChairmanMessage_txt_three{
+	margin-left:3%;
+	text-indent: 0em!important;
+	margin-bottom: 50px;
+}
+.ChairmanMessage_txt_four{
+	margin-left:3%;
+	text-indent: 0em!important;
+}

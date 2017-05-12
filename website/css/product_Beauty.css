@@ -1,0 +1,50 @@
+.product_Beauty_return span{
+	font-size: 20px;
+	color: #979797;
+}
+.product_Beauty_return{
+	width: 98%;
+	min-width: 1024px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.product_Beauty_head{
+	width: 100%;
+	min-width: 1024px;
+	margin-top: 30px;
+}
+.product_Beauty_head img{
+	width: 100%;
+}
+.product_Beauty_content{
+	width: 90%;
+	min-width: 1024px;
+	margin-top: 50px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.product_Beauty_content p{
+	width: 100%;
+	text-align: center;
+	font-size:2em;
+	margin-bottom: 40px;
+}
+.product_Beauty_content>div{
+	float: left;
+	width: 20%;
+	text-align: center;
+	border: 1px solid black;
+	margin-left: 10%;
+}
+.product_Beauty_one img{
+	width: 100%;
+}
+.product_Beauty_erweima{
+	margin-top: 50px;
+	width: 100%;
+	min-width: 1024px;
+	margin: 0 auto;
+}
+.product_Beauty_erweima img{
+	width: 100%;
+}
